@@ -1,11 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import Covid from "./components/covid";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      
-    </div>
+    <>
+      <Covid />
+    </>
   );
 }
 
