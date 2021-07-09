@@ -24,7 +24,7 @@ const Covid = () => {
     <>
       <section>
         <div className="heading">
-          <h1> <span>🔴</span> Live</h1>
+          <h1> <span>🔴</span> <p> Live </p></h1>
           <h2> <span>COVID-19</span>  CORONAVIRUS TRACKER</h2>
         </div>
 
